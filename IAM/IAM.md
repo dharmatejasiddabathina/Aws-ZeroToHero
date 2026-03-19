@@ -1,6 +1,6 @@
 # 🔐 AWS IAM — Complete Hands-On Guide
 
-> **Author:** Teja Balamanasa | Senior Cloud DevSecOps Engineer | [Teja Technologies](https://github.com/teja-technologies)
+> **Author:** Teja  | Senior Cloud DevSecOps Engineer | [Teja Technologies](https://github.com/teja-technologies)
 >
 > ⭐ **Star this repo** if it helped you! Share with your team and the AWS community.
 >
@@ -39,11 +39,11 @@ AWS **Identity and Access Management (IAM)** is a **free, global AWS service** t
 │                        AWS IAM                                      │
 │                                                                     │
 │   🔑 AUTHENTICATION      🔒 AUTHORIZATION       📋 AUDIT           │
-│   ─────────────────      ──────────────────      ─────────         │
-│   WHO are you?           WHAT can you do?        WHAT did you do?  │
+│   ─────────────────      ──────────────────      ─────────          │
+│   WHO are you?           WHAT can you do?        WHAT did you do?   │
 │                                                                     │
-│   Verify identity        Control actions         CloudTrail logs   │
-│   via credentials        on resources            all activity      │
+│   Verify identity        Control actions         CloudTrail logs    │
+│   via credentials        on resources            all activity       │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -2057,7 +2057,7 @@ All contributions are welcome — especially real-world scenarios from your proj
 
 ## 📢 About the Author
 
-**Teja Balamanasa** — Senior Cloud DevSecOps Engineer
+**Teja ** — Senior Cloud DevSecOps Engineer
 
 - 12+ years in AWS, DevOps, multi-cloud environments
 - Capital One — Cloud Infrastructure Engineering
